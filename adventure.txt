@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-"this is my adventure" 
-=======
-new york 
-penn 
-maryland 
->>>>>>> fh--class-presentation
+new file 
